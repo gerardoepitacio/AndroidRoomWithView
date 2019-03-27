@@ -15,7 +15,5 @@ See [This Google Codelab](https://codelabs.developers.google.com/codelabs/androi
 
 # Screenshots
 ![ScreenShot](screenshots/1.png)
-
 ![ScreenShot](screenshots/2.png)
-
 ![ScreenShot](screenshots/3.png)
